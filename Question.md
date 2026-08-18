@@ -1,10 +1,4 @@
-# The question formed from "The Code Book" by Simon Singh
-
-This markdown will contain the questions to help you learn and know what is inside the book without reading it.
-
-Book Name: [The Code Book](https://www.goodreads.com/en/book/show/17994.The_Code_Book)
-
-Writer: [Simon Singh](https://www.goodreads.com/author/show/10894.Simon_Singh)
+# Questions from "The Code Book" by Simon Singh
 
 ## Question 1 — The Secret Message
 
@@ -30,10 +24,7 @@ You need to secretly send a message to another person. You write the message on 
 
 What is this technique an example of?
 
-A. Cryptography
-B. Steganography
-C. Transposition
-D. Substitution
+A. Cryptography | B. Steganography | C. Transposition | D. Substitution
 
 <details>
 <summary><b>Answer: B. Steganography</b></summary>
@@ -54,10 +45,7 @@ For example, you could:
 
 What is this technique called?
 
-A. Cryptography
-B. Transposition
-C. Steganography
-D. Substitution
+A. Cryptography | B. Transposition | C. Steganography | D. Substitution
 
 <details>
 <summary><b>Answer: C. Steganography</b></summary>
@@ -73,10 +61,7 @@ You have learned that cryptography hides the meaning of a message by scrambling 
 
 What are the two branches of cryptography?
 
-A. Steganography and cryptography
-B. Transposition and substitution
-C. Encryption and decryption
-D. Rail fence and scytale
+A. Steganography and cryptography | B. Transposition and substitution | C. Encryption and decryption | D. Rail fence and scytale
 
 <details>
 <summary><b>Answer: B. Transposition and substitution</b></summary>
@@ -100,15 +85,10 @@ TYERTSHPIOEITOLTTOHURARSNROTHSCEITYRSNRFHUEIGTOATPIOETI
 
 What is this technique called?
 
-A. Substitution
-B. Transposition
+A. Substitution | B. Transposition
 
 <details>
 <summary><b>Answer: B. Transposition</b></summary>
 
 **Details:** Because the original letters of the message have not been replaced with different symbols, but rather shuffled and rearranged into a new order according to a specific pattern, this is a classic transposition cipher.
 </details>
-
-
-
-
