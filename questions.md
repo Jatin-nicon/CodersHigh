@@ -13,6 +13,5 @@
 10. How many distinct Ciphers are there?
 11. What is Ceaser Cipher and is it limited to a shift of 3?
 12. How is Substitution Cipher complementary to Transposition Cipher?
-13. How easy is it to read the message on a scytale, what the main key to encrypt the message from teh scytale?
+13. How easy is it to read the message on a scytale, what the main key to encrypt the message from the scytale?
 14. What is the Ciipher documented in Julius Ceaser? Explain the Cipher. 
-
