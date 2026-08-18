@@ -1,41 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Questions</title>
+# Questions
 
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            padding: 40px;
-        }
+## 1. Why has cryptography been important throughout history?
 
-        h1 {
-            font-size: 48px;
-        }
+Think about why people have needed to communicate secretly and how cryptography has helped them do so.
 
-        .question {
-            font-size: 28px;
-            margin: 30px 0;
-        }
-    </style>
-</head>
+## 2. What was the main weakness of writing a secret message on a person's shaved head as a method of secret communication?
 
-<body>
+Consider what could happen before the person's hair grew back.
 
-    <h1>Questions</h1>
+## 3. Why does the ability to read an enemy's secret messages sometimes give one side a greater advantage than having more soldiers or weapons?
 
-    <div class="question">
-        1. Why has cryptography been important throughout history?
-
-    <div class="question">
-        2. What was the main weakness of writing a secret message on a person’s shaved head as a method of secret communication?
-    </div>
-
-    <div class="question">
-        3. Why does the ability to read an enemy’s secret messages sometimes give one side a greater advantage than having more soldiers or weapons?
-    </div>
-
-</body>
-</html>
+Think about how access to secret information can influence the outcome of a conflict.
