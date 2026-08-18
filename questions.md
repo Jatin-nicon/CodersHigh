@@ -7,3 +7,12 @@
 4. What is the railfence transposition and if railfence transposition is used, what is the formula is decrypt it?
 5. What security protocol is followed in steganography and why is it its fundamental weakness?
 6. If messages were encrypted and sent, how would the receiver device the decryption formula during the early days?
+7. What is an anagram and how is it generated?
+8. Explain the transposition Cipher mentioned in Kama-sutra (as Mlecchita-Vikalpa).
+9. What is the transposition emboided in Spartan Scytale? What is the method of writing the messages - horizontal or vertical, explain. 
+10. How many distinct Ciphers are there?
+11. What is Ceaser Cipher and is it limited to a shift of 3?
+12. How is Substitution Cipher complementary to Transposition Cipher?
+13. How easy is it to read the message on a scytale, what the main key to encrypt the message from teh scytale?
+14. What is the Ciipher documented in Julius Ceaser? Explain the Cipher. 
+
