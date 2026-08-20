@@ -22,3 +22,11 @@ Study guides and discussion questions based on *"The Code Book: The Science of S
   - Question 3: The General's Spear and the Fixed Shift
   - Question 4: The Mind-Boggling Maze of 400 Septillion Keys
   - Question 5: The Sacred Boundary — Separating the Machinery from the Key
+
+- **[Day 3: Programming Edition (Pages 16 to 20)](TheCodeBook/day-3-page-16-to-20.md)**:
+  - Question 1: [Programming Challenge] Coding the Caesar Cipher (The Algorithm)
+  - Question 2: [Programming Challenge] Decrypting Caesar via Brute Force (Without the Key)
+  - Question 3: [Programming Challenge] Implementing Kerckhoffs' Principle (Algorithm vs. Key)
+  - Question 4: [Programming Challenge] Generating Keys of the Mind (Deterministic Monoalphabetic Cipher)
+  - Question 5: [Programming Challenge] Simulating the Supercomputer Wall (Brute-Force Complexity)
+  - Question 6: [Programming Challenge] The Fractional-Shift Cipher (The 18.5 Paradox)
