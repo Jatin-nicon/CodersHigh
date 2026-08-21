@@ -21,3 +21,35 @@ Q. You were successfully freed her and spent sometime with her, the evil force t
 <summary>Answer</summary>
 Since I have spent some time with her and the guards already know I can hide the the paper somewhere, so instead of hidding the message paper I will try to hide the message itself using some methods
 </details>
+
+## Question 3
+
+Q. Can you do the message hidding in more than one way?
+<details>
+<summary>Answer</summary>
+Yes, I can either rearrange the words in sentence or I can replace the characters with some other characters in the sentence to create an encryption
+</details>
+
+## Question 4
+
+Q. Did you noticed a pattern that for encryption it is more important to focus on key instead of the logic you are using to encrypt it?
+<details>
+<summary>Answer</summary>
+Yes
+</details>
+
+## Question 5
+
+Q. Suppose you are an agent in National Defence Agency, you came across a letter which was bunch of gibberish, what will be your first thought?
+<details>
+<summary>Answer</summary>
+I will think it as of encrypted message and I will try to break it.
+</details>
+
+## Question 6
+
+Q. What will be the steps you will try to take to decrypt the message you came across in the letter?
+<details>
+<summary>Answer</summary>
+I will try to analyis the pattern and start writing down the pattern and number of times words are appearning.
+</details>
